@@ -89,9 +89,9 @@
 
 После создания дополнительной ветки можно просмотреть существующие ветки с помощью команды:
 
-
     git branch
-    git branch <branchname>
+
+
     git checkout <branchmame>
     git merge <branchname>
     git branch -d <branchname>
