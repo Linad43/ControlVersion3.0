@@ -105,3 +105,4 @@
 
 ## Слияние
     
+    git merge <brunchname>
