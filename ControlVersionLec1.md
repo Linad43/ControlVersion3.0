@@ -81,9 +81,11 @@
 
 Ветвление в гид...
 
-<<<<<<< HEAD
-## Все ветки
-=======
 ## Просмотр всех веток
 
->>>>>>> bra
+    git branch
+    git branch <branchname>
+    git checkout <branchmame>
+    git merge <branchname>
+    git branch -d <branchname>
+    
