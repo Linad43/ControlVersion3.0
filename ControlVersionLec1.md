@@ -103,6 +103,5 @@
 
 Данная команда удаляет ветку branchname.
 
-    git merge <branchname>
-    git branch -d <branchname>
+## Слияние
     
