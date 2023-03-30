@@ -96,7 +96,12 @@
 
     git checkout <branchmame>
 
-Где brenchname это имя ветки на которую нужно перейти
+Где brenchname это имя ветки на которую нужно перейти.
+В конце описания веток, опишу команду:
+
+    git branch -d <branchame>
+
+Данная команда удаляет ветку branchname.
 
     git merge <branchname>
     git branch -d <branchname>
